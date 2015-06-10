@@ -5,3 +5,12 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+
+Test.delete_all
+
+Tests = Test.create ([
+     {title: "Soccer", description: "Aka Football"},
+     {title: "Awesome Book",description: "This is a greeat book abount bikes.", },
+     {title: "Coding", description: "Coding is a greate thing to know SQL, HTML, CSS, JavaScript and the frameworks."}
+  ])
