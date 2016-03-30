@@ -3,4 +3,7 @@
 Template for getting up and running using Angular JS with a Ruby On Rails Back End.
 
 Ruby Version 
+
 Rails Version
+
+AngularJS Version
